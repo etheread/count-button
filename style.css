@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+.code{
+    height: 300px;
+    width: 400px;
+    border: 3px,solid;
+    margin: 35%;
+    margin-top: 0%;
+    border-radius: 6px;
+    background-color: antiquewhite;
+}
+#bebe{
+    margin-left: 5%;
+    font-size: xx-large;
+}
+#button{
+    background-color: azure;
+    border-radius: 6px;
+    border-color: azure;
+    font-size: large;
+}
+#resetButton{
+    background-color: azure;
+    border-radius: 6px;
+    border-color: azure;
+    font-size: large;
+}
+#decreaseButton{
+    background-color: azure;
+    border-radius: 6px;
+    border-color: azure;
+    font-size: large;
+}
